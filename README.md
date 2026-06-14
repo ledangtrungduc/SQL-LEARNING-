@@ -1,5 +1,6 @@
 # Comprehensive SQL Server Practice: From Basics to Advanced Queries
-
+**Author:** Le Dang Trung Duc  
+**Lecturer:** Le Nhat Tung, MSc
 ## Overview
 This repository contains a structured collection of SQL scripts developed during my deep-dive practice with Microsoft SQL Server. The project utilizes the classic **Microsoft Northwind sample database** to simulate real-world data extraction, manipulation, and analytical tasks[cite: 5].
 
