@@ -34,7 +34,9 @@ Based on the scripts in this repository, the following SQL proficiencies are sho
 * **Database & Table Creation:** Using `CREATE DATABASE` and `CREATE TABLE` to set up new schemas.
 * **Schema Modification:** Applying `ALTER TABLE` to add columns and enforce rules via `CHECK` constraints[cite: 7].
 * **Data Modification:** Inserting single and multiple records with `INSERT INTO`, duplicating table structures with `SELECT INTO`, updating existing records with `UPDATE`, and safely removing data with `DELETE`[cite: 7].
-
+## 🛠 Prerequisites & Tools
+* **RDBMS:** Microsoft SQL Server.
+* **IDE:** SQL Server Management Studio (SSMS) 
 ## Repository Structure
 * `/SQL LEARNING/`: Contains all `.sql` query files categorized logically by topic.
 * `README.md`: Project documentation.
